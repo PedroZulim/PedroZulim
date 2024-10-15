@@ -1,10 +1,10 @@
-<div align="center">
+<div align="center" style="display: flex; justify-content: center;">
   <a href="https://github.com/PedroZulim">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroZulim&show_icons=true&theme=aura&include_all_commits=true&count_private=true&line_height=20"/>
-</div>
-<div align="center">
+  </a>
   <a href="https://github.com/PedroZulim">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroZulim&layout=compact&langs_count=5&theme=aura"/>
+  </a>
 </div>
 
 ## About Me
