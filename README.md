@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I am a Data Engineer with expertise in Python, Snowflake, and cloud platforms like Azure. I design and implement data pipelines, ETL processes, and optimize database performance to manage large-scale datasets.<br><br>- 🔭 I’m working as Azure and AWS<br>- 📚 I'm currently learning Python and PySpark<br>- ⚡ In my free time, I enjoy developing projects to predict major changes in the economy. </p>
 
 ###
 
