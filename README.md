@@ -142,13 +142,13 @@ Areas I'm especially interested in:
 <div align="center">
 
   <img
-    height="170"
+    width="48%"
     src="https://github-stats-extended.vercel.app/api?username=PedroZulim&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
     alt="Pedro Zulim GitHub Stats"
   />
 
   <img
-    height="170"
+    width="48%"
     src="https://github-stats-extended.vercel.app/api/top-langs?username=PedroZulim&layout=compact&hide_border=true&theme=transparent"
     alt="Pedro Zulim Top Languages"
   />
