@@ -141,17 +141,21 @@ Areas I'm especially interested in:
 
 <div align="center">
 
-  <img
-    height="150"
-    src="https://github-stats-extended.vercel.app/api?username=PedroZulim&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
-    alt="Pedro Zulim GitHub Stats"
-  />
+  <div align="left">
+    <img
+      height="150"
+      src="https://github-stats-extended.vercel.app/api?username=PedroZulim&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
+      alt="Pedro Zulim GitHub Stats"
+    />
+  </div>
 
-  <img
-    height="150"
-    src="https://github-stats-extended.vercel.app/api/top-langs?username=PedroZulim&layout=compact&hide_border=true&theme=transparent"
-    alt="Pedro Zulim Top Languages"
-  />
+  <div align="right">
+    <img
+      height="150"
+      src="https://github-stats-extended.vercel.app/api/top-langs?username=PedroZulim&layout=compact&hide_border=true&theme=transparent"
+      alt="Pedro Zulim Top Languages"
+    />
+  </div>
 
 </div>
 
